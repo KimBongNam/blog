@@ -41,6 +41,7 @@
     "@tryghost/content-api": "^1.4.12",
     "@types/refractor": "^3.0.0",
     "cheerio": "^1.0.0-rc.5",
+    "critters": "0.0.6",
     "dayjs": "^1.10.2",
     "email-validator": "^2.0.4",
     "fs": "^0.0.1-security",
