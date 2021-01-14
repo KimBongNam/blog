@@ -232,3 +232,4 @@ This project is not affiliated with [NextJS](https://nextjs.org/) or [Ghost](htt
 # Copyright & License
 
 Copyright (c) 2020 styxlab - Released under the [MIT license](LICENSE).
+
